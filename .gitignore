@@ -1,6 +1,7 @@
 #android
 bin/
 gen/
+#eclipse
 .classpath
 .project
 proguard-project.txt
