@@ -1,0 +1,6 @@
+#android
+bin/
+gen/
+.classpath
+.project
+proguard-project.txt
